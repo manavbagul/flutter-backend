@@ -8,10 +8,13 @@ const app = express();
 app.use(express.json());
 app.use("/pdfs", express.static(path.join(__dirname, "pdf"))); // Serve static PDF files
 
+app.get("/", (req, res) => {
+  res.send("Server API Working");
+});
 app.post("/api/application", (req, res) => {
   const fields = req.body;
   log(req.body);
-
+  ``;
   pdf_build(fields, (err, fileUrl) => {
     if (err) {
       return res.status(500).json({ error: "Failed to generate PDF" });
