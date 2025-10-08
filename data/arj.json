@@ -1,0 +1,115 @@
+{
+  "title": {
+    "text": "अर्ज",
+    "font": "bold",
+    "size": "16"
+  },
+  "description": {
+    "text": "",
+    "font": "regular",
+    "size": "16"
+  },
+  "to": {
+    "name": {
+      "text": "जिल्हा कोर्ट",
+      "font": "bold",
+      "size": "16"
+    },
+    "description": {
+      "text": "",
+      "font": "bold",
+      "size": "16"
+    },
+    "address": {
+      "text": "जळगाव",
+      "font": "bold",
+      "size": "16"
+    }
+  },
+  "applicants": [
+    {
+      "name": {
+        "text": "श्री सुधीर गोविंदराव पवार",
+        "font": "regular",
+        "size": "16"
+      },
+      "description": {
+        "text": "वय वर्षे धंदा सेवानिवृत्त",
+        "font": "regular",
+        "size": "16"
+      },
+      "address": {
+        "text": "रा. सर्वे नंबर 26/62/6 पार्वती बाई निकम स्कूल जवळ, संगमवाडी पुणे शहर तालुका जिल्हा पुणे",
+        "font": "regular",
+        "size": "16"
+      }
+    }
+  ],
+  "respondents": [
+    {
+      "name": {
+        "text": "महेश मर्चंट्स को–ऑफ. क्रेडिट सोसायटी लि. भुसावळ",
+        "font": "regular",
+        "size": "16"
+      },
+      "description": {
+        "text": "शाखा यावल",
+        "font": "regular",
+        "size": "16"
+      },
+      "address": {
+        "text": "प्रोफेसर कॉलनी भुसावळ जिल्हा जळगाव",
+        "font": "regular",
+        "size": "16"
+      }
+    }
+  ],
+  "subjects": [
+    {
+      "text": "त्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबतत्रास देणे बाबत",
+      "font": "bold",
+      "size": "16"
+    }
+  ],
+  "paragraphs": [
+    {
+      "text": "ड असफ डास फडस फॅड...",
+      "font": "regular",
+      "size": "16"
+    },
+    {
+      "text": "ड असफ डास फडस फॅड...",
+      "font": "regular",
+      "size": "16"
+    },
+    {
+      "text": "ड असफ डास फडस फॅड...",
+      "font": "regular",
+      "size": "16"
+    }
+  ],
+  "place": {
+    "text": "जळगाव",
+    "font": "bold",
+    "size": "16"
+  },
+  "date": {
+    "text": "19/02/2015",
+    "font": "bold",
+    "size": "16"
+  },
+  "signatures": {
+    "applicant_signature": {
+      "text": "सहि करणार",
+      "font": "bold",
+      "size": "16"
+    }
+  },
+  "dispatch": [
+    {
+      "text": "1) जिल्हा कोर्ट जिल्हा कोर्ट जिल्हा.",
+      "font": "bold",
+      "size": "16"
+    }
+  ]
+}
