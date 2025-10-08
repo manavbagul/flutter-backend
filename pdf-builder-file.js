@@ -11,7 +11,8 @@ const cmToPoints = (cm) => cm * 28.3465;
 const pdf_build = (fields, callback) => {
   const timestamp = Date.now();
   const fileName = `output_${timestamp}.pdf`;
-  const filePath = path.join(__dirname, "pdf", fileName);
+  const filePath = path.join("/tmp", "pdf", fileName);
+  // const filePath = path.join(__dirname, "pdf", fileName);
 
   const doc = new PDFDocument(pdf_config);
 
